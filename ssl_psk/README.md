@@ -55,6 +55,8 @@ $ idf.py flash
 ## Example output
 
 ```
+$ sudo screen /dev/ttyUSB0 115200
+...
 I (5647) MQTTS_EXAMPLE: [APP] Free memory: 234728 bytes
 I (5657) MQTTS_EXAMPLE: Other event id:7
 I (5667) main_task: Returned from app_main()
