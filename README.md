@@ -1,8 +1,8 @@
 # esp32-mqtt
 
 esp32-mqtt is a sandbox to explore the MQTT capabilities of the ESP32, for example:
-- connect to AWS IoT broker using ssl transport with client certificate
-- connect to local broker using ssl transport with PSK
+- connect to AWS IoT broker using ssl transport with client certificate, see [example 1](/ssl_mutual_auth/)
+- connect to local broker using ssl transport with PSK, see [example 2](/ssl_psk/)
 
 ## Toolchain installation, firmware building and flashing
 
@@ -72,8 +72,3 @@ $ sudo screen /dev/ttyUSB0 115200
 ```
 
 If you want to quit press `Ctlr+A` then `D`.
-
-## Examples
-
-- [SSL with certification](/ssl_mutual_auth/)
-- [SSL with PSK](/ssl_psk/)
