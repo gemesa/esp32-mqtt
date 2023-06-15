@@ -72,3 +72,15 @@ $ sudo screen /dev/ttyUSB0 115200
 ```
 
 If you want to quit press `Ctlr+A` then `D`.
+
+## Examples
+
+### SSL with certification
+
+```
+```
+
+### SSL with PSK
+
+```
+```
