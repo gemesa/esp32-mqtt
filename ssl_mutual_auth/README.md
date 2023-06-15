@@ -41,7 +41,7 @@ static void mqtt_app_start(void)
 
 ### Build and flash
 
-For more information refer to the root README.md.
+For more information refer to the root [README.md](../README.md).
 
 ```
 $ idf.py build
