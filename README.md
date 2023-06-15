@@ -76,4 +76,4 @@ If you want to quit press `Ctlr+A` then `D`.
 ## Examples
 
 - [SSL with certification](/ssl_mutual_auth/)
-- SSL with PSK
+- [SSL with PSK](/ssl_psk/)
